@@ -6,7 +6,7 @@ namespace Topic_7._1___While_loops
     {
         static void Main(string[] args)
         {
-            //Julian D
+            //Julian Dev
 
             double balance; //users coins
             bool run = true; //main game loop condition
